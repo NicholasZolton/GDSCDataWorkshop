@@ -5,3 +5,7 @@ This repository has been created for the attendees of UTD GDSC's Fall 2022 Data 
 1. Create a Virtual Environment (optional)
 2. Run the command ```pip install -r requirements.txt```
 3. You're ready to go! Begin visualizing data in the data_workshop_seaborn.ipynb file.
+
+# Graphs Using Seaborn
+Want ideas for different graphs to use to visualize your data?
+Follow this link! http://seaborn.pydata.org/examples/index.html
